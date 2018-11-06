@@ -14,6 +14,7 @@ A curated list of awesome RSocket protocol, frameworks, libraries and software.
 
 * RSocket Java: https://github.com/rsocket/rsocket-java
 * RSocket Cpp: https://github.com/rsocket/rsocket-cpp
+* yarpl: C++ Reactive Programming Library  https://github.com/rsocket/rsocket-cpp/tree/master/yarpl
 * RSocket Javascript: https://github.com/rsocket/rsocket-js
 
 ### RPC
@@ -43,10 +44,13 @@ A curated list of awesome RSocket protocol, frameworks, libraries and software.
 * 
 RSocket, a New Application Network Protocol for Reactive Applications, Announced at SpringOne  https://www.infoq.com/news/2018/10/rsocket-facebook
 * Give REST a Rest with RSocket https://www.infoq.com/articles/give-rest-a-rest-rsocket
+* Backpressure: https://github.com/ReactiveX/RxJava/wiki/Backpressure
 
 ### Books
 
-*  <<Hands-On Reactive Programming in Spring>>  "RSocket for low-latency, reactive message passing " https://www.packtpub.com/application-development/hands-reactive-programming-spring-5
+* Hands-On Reactive Programming in Spring  "RSocket for low-latency, reactive message passing " https://www.packtpub.com/application-development/hands-reactive-programming-spring-5
+* Hands-On Reactive Programming with Reactor https://www.packtpub.com/application-development/hands-reactive-programming-reactor
+
 
 ### Twitter guys
 
