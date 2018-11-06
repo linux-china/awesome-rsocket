@@ -16,6 +16,8 @@ A curated list of awesome RSocket protocol, frameworks, libraries and software.
 * RSocket Cpp: https://github.com/rsocket/rsocket-cpp
 * yarpl: C++ Reactive Programming Library  https://github.com/rsocket/rsocket-cpp/tree/master/yarpl
 * RSocket Javascript: https://github.com/rsocket/rsocket-js
+* RSocket Kotlin: https://github.com/rsocket/rsocket-kotlin
+* Command-line client for ReactiveSocket https://github.com/rsocket/rsocket-cli
 
 ### RPC
 
