@@ -41,8 +41,7 @@ A curated list of awesome RSocket protocol, frameworks, libraries and software.
 
 ### Articles
 
-* 
-RSocket, a New Application Network Protocol for Reactive Applications, Announced at SpringOne  https://www.infoq.com/news/2018/10/rsocket-facebook
+* RSocket, a New Application Network Protocol for Reactive Applications, Announced at SpringOne  https://www.infoq.com/news/2018/10/rsocket-facebook
 * Give REST a Rest with RSocket https://www.infoq.com/articles/give-rest-a-rest-rsocket
 * Backpressure: https://github.com/ReactiveX/RxJava/wiki/Backpressure
 
