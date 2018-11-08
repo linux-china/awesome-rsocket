@@ -44,7 +44,8 @@ A curated list of awesome RSocket protocol, frameworks, libraries and software.
 
 ### Presentations
 
-* Reactive with RSocket, SpringOne Platform 2018: https://www.youtube.com/watch?v=D2Z5d9dEBxQ&t=16s
+* Reactive Microservices using RSocket on Reactive Summit 2018: https://www.reactivesummit.org/2018/schedule/reactive-microservices-using-rsocket
+* Reactive with RSocket, SpringOne Platform 2018: https://www.youtube.com/watch?v=D2Z5d9dEBxQ&t=16s slides here https://www.infoq.com/presentations/reactive-streams-rsocket
 * Multi-Service Reactive Streams Using Spring, Reactor, and RSocket https://www.youtube.com/watch?v=e-N4BchYXws
 * Distributed Reactive Streams with RSocket, Reactor, and Spring on CodeOne https://www.youtube.com/watch?v=WVnAbv65uCU&t=409s
 * future:net 2018 - RSocket: Reactive Cloud-Native Networking https://www.youtube.com/watch?v=V5bhLd_DPjM
@@ -58,6 +59,9 @@ A curated list of awesome RSocket protocol, frameworks, libraries and software.
 ### Books
 
 * Hands-On Reactive Programming in Spring  "RSocket for low-latency, reactive message passing " https://www.packtpub.com/application-development/hands-reactive-programming-spring-5
+
+![RSocket Chapters](https://github.com/linux-china/awesome-rsocket/raw/master/images/rsocket_chapters.png)
+
 * Hands-On Reactive Programming with Reactor https://www.packtpub.com/application-development/hands-reactive-programming-reactor
 
 
