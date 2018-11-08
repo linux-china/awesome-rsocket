@@ -23,6 +23,11 @@ A curated list of awesome RSocket protocol, frameworks, libraries and software.
 
 * Standard RSocket RPC Java Implementation https://github.com/rsocket/rsocket-rpc-java
 
+### Reactive Libraries
+
+* Reactive Stream: http://www.reactive-streams.org/
+* Reactor: https://projectreactor.io/
+* RxJava: https://github.com/ReactiveX/RxJava
 
 ### Netifi Proteus
 
