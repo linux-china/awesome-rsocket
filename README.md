@@ -2,7 +2,7 @@
 
 A curated list of awesome RSocket protocol, frameworks, libraries and software.
 
-![RSocket Structure](/linux-china/awesome-rsocket/blob/master/images/structure.png?raw=true)
+![RSocket Structure](https://github.com/linux-china/awesome-rsocket/raw/master/images/structure.png)
 
 
 ## Projects
