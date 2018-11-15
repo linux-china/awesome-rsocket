@@ -79,4 +79,5 @@ A curated list of awesome RSocket protocol, frameworks, libraries and software.
 
 ## Support
 
+* Proteus & RSocket Community: https://community.netifi.com/
 * Netifi: https://www.netifi.com/
