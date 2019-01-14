@@ -12,6 +12,7 @@ A curated list of awesome RSocket protocol, frameworks, libraries and software.
 * RSocket Home: http://rsocket.io/
 * RSocket Protocol: http://rsocket.io/docs/Protocol
 
+
 ### RSocket Libraries
 
 * RSocket Java: https://github.com/rsocket/rsocket-java
@@ -40,6 +41,11 @@ A curated list of awesome RSocket protocol, frameworks, libraries and software.
 * Proteus Java Client https://github.com/netifi-proteus/proteus-java 
 * Proteus Integration for Spring Boot https://github.com/netifi-proteus/proteus-spring
 * Blog from Netifi https://medium.com/netifi
+
+### ScaleCube
+
+* microservices: https://github.com/scalecube/scalecube-services
+* RSocket playground: http://scalecube.io/api-sandbox/app/index.html
 
 ### System
 
@@ -92,3 +98,4 @@ A curated list of awesome RSocket protocol, frameworks, libraries and software.
 * Proteus & RSocket Community: https://community.netifi.com/
 * RSocket Linkedin group: https://www.linkedin.com/groups/8715141/
 * Netifi: https://www.netifi.com/
+* ScaleCube: http://scalecube.io
