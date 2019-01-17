@@ -64,6 +64,7 @@ A curated list of awesome RSocket protocol, frameworks, libraries and software.
 
 ### Articles
 
+* Reactive Microservices Breed Compelling New Reactive Networking Protocol RSocket: https://itcblogs.currentanalysis.com/2019/01/16/reactive-microservices-breed-compelling-new-reactive-networking-protocol-rsocket/
 * Introduction to RSocket: https://www.baeldung.com/rsocket :thumbsup:
 * End to End Reactive Streams with RSockets on Android and Spring Boot：https://medium.com/@lahtela/end-to-end-reactive-streams-with-rsockets-on-android-and-spring-boot-12037624c58d
 * RSocket, a New Application Network Protocol for Reactive Applications, Announced at SpringOne  https://www.infoq.com/news/2018/10/rsocket-facebook
