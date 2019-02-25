@@ -35,6 +35,7 @@ A curated list of awesome RSocket protocol, frameworks, libraries and software.
 * RxJava: https://github.com/ReactiveX/RxJava
 * Reactive Programming articles: https://www.reactiveprogramming.be/
 * What is Reactive Programming: https://medium.com/@kevalpatel2106/what-is-reactive-programming-da37c1611382
+* RSocket videos on Youtube: https://www.youtube.com/channel/UCgq8KGNViXB_D-EUpQBLHzA
 
 ### Netifi Proteus
 
