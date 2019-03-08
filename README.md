@@ -23,6 +23,8 @@ A curated list of awesome RSocket protocol, frameworks, libraries and software.
 * Command-line client for ReactiveSocket https://github.com/rsocket/rsocket-cli
 * Facebook Thrift with RSocket: https://github.com/facebook/fbthrift/tree/master/thrift/lib/cpp2/transport/rsocket
 * Envoy with RSocket: https://github.com/linux-china/envoy/tree/master/source/extensions/filters/network/rsocket_proxy
+* Spring with RSocket: https://github.com/spring-projects/spring-framework/tree/master/spring-messaging/src/main/java/org/springframework/messaging/rsocket 
+* Spring Cloud Gateway with RSocket: https://github.com/spring-cloud/spring-cloud-gateway/tree/rsocket/spring-cloud-gateway-rsocket 
 
 ### RPC
 
