@@ -65,6 +65,7 @@ A curated list of awesome RSocket protocol, frameworks, libraries and software.
 * future:net 2018 - RSocket: Reactive Cloud-Native Networking https://www.youtube.com/watch?v=V5bhLd_DPjM
 * Reactive Microservices using RSocket: https://www.youtube.com/watch?v=_rqQtkIeNIQ
 * Spring Tips: RSocket https://spring.io/blog/2019/01/02/spring-tips-rsocket
+* RSocket and Spring Cloud Gateway: https://www.slideshare.net/Pivotal/welcome-to-the-reactive-revolutionrsocket-and-spring-cloud-gateway-spencer-gibb
 
 ### Articles
 
