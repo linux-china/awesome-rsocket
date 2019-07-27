@@ -69,6 +69,8 @@ A curated list of awesome RSocket protocol, frameworks, libraries and software.
 
 ### Articles
 
+* Reactive service to service communication with RSocket: https://medium.com/@b3rnoulli/reactive-service-to-service-communication-with-rsocket-introduction-5d64e5b6909
+* Reactive service to service communication with RSocket — Load balancing & Resumability: https://medium.com/@b3rnoulli/reactive-service-to-service-communication-with-rsocket-load-balancing-resumability-194c2abed1c6
 * How-To: Create RSocket-Java Receiver/Connector: http://coinen.space/rsocket/posts/how-to-rsocket-java-receiver-connector/
 * Reactive Microservices Breed Compelling New Reactive Networking Protocol RSocket: https://itcblogs.currentanalysis.com/2019/01/16/reactive-microservices-breed-compelling-new-reactive-networking-protocol-rsocket/
 * Introduction to RSocket: https://www.baeldung.com/rsocket :thumbsup:
@@ -81,6 +83,7 @@ A curated list of awesome RSocket protocol, frameworks, libraries and software.
 ### Tools
 
 * Expose your local Spring Boot App to internet: https://www.microservices.club/
+* Netifi Broker to a Minikube server: https://www.netifi.com/getstarted-kubernetes
 
 ### Books
 
