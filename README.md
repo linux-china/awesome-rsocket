@@ -80,7 +80,7 @@ A curated list of awesome RSocket protocol, frameworks, libraries and software.
 *Dynamic Flow Control during Backpressure with RxJava and RSockets: https://medium.com/@lahtela/dynamic-flow-control-during-backpressure-with-rxjava-and-rsockets-41e369cda122
 * Give REST a Rest with RSocket https://www.infoq.com/articles/give-rest-a-rest-rsocket
 * Backpressure: https://github.com/ReactiveX/RxJava/wiki/Backpressure
-
+* Evaluating Critical Performance Needs for Microservices and Cloud-Native Applications: https://medium.com/netifi/evaluating-critical-performance-needs-for-microservices-and-cloud-native-applications-7675c50a8460
 ### Tools
 
 * Expose your local Spring Boot App to internet: https://www.microservices.club/
