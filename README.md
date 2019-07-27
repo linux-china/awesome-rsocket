@@ -26,6 +26,7 @@ A curated list of awesome RSocket protocol, frameworks, libraries and software.
 * Envoy with RSocket: https://github.com/linux-china/envoy/tree/master/source/extensions/filters/network/rsocket_proxy
 * Spring with RSocket: https://github.com/spring-projects/spring-framework/tree/master/spring-messaging/src/main/java/org/springframework/messaging/rsocket 
 * Spring Cloud Gateway with RSocket: https://github.com/spring-cloud/spring-cloud-gateway/tree/rsocket/spring-cloud-gateway-rsocket 
+* Spring Boot RSocket Starter: https://docs.spring.io/spring-boot/docs/2.2.0.M4/reference/html/#boot-features-rsocket
 
 ### RPC
 
