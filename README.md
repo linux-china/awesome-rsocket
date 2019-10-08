@@ -59,6 +59,7 @@ A curated list of awesome RSocket protocol, frameworks, libraries and software.
 
 ### Presentations
 
+* Welcome to the Reactive Revolution:RSocket and Spring Cloud Gateway: https://www.infoq.com/presentations/rsocket-spring-cloud-gateway/
 * Reactive Microservices using RSocket on Reactive Summit 2018: https://www.reactivesummit.org/2018/schedule/reactive-microservices-using-rsocket
 * Reactive with RSocket, SpringOne Platform 2018: https://www.youtube.com/watch?v=D2Z5d9dEBxQ&t=16s slides here https://www.infoq.com/presentations/reactive-streams-rsocket
 * Multi-Service Reactive Streams Using Spring, Reactor, and RSocket https://www.youtube.com/watch?v=e-N4BchYXws
