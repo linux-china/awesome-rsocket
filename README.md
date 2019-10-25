@@ -12,6 +12,7 @@ A curated list of awesome RSocket protocol, frameworks, libraries and software.
 * RSocket Home: http://rsocket.io/
 * RSocket Protocol: http://rsocket.io/docs/Protocol
 
+
 ### RSocket Libraries
 
 * RSocket Java: https://github.com/rsocket/rsocket-java
@@ -19,23 +20,39 @@ A curated list of awesome RSocket protocol, frameworks, libraries and software.
 * yarpl: C++ Reactive Programming Library  https://github.com/rsocket/rsocket-cpp/tree/master/yarpl
 * RSocket Javascript: https://github.com/rsocket/rsocket-js
 * RSocket Kotlin: https://github.com/rsocket/rsocket-kotlin
+* RSocket Golang: https://github.com/rsocket/rsocket-go
 * Command-line client for ReactiveSocket https://github.com/rsocket/rsocket-cli
+* Facebook Thrift with RSocket: https://github.com/facebook/fbthrift/tree/master/thrift/lib/cpp2/transport/rsocket
+* Envoy with RSocket: https://github.com/linux-china/envoy/tree/master/source/extensions/filters/network/rsocket_proxy
+* Spring RSocket:  https://docs.spring.io/spring/docs/5.2.0.RELEASE/spring-framework-reference/web-reactive.html#rsocket
+* Spring Boot RSocket Starter: https://docs.spring.io/spring-boot/docs/2.2.0.RC1/reference/html/spring-boot-features.html#boot-features-rsocket
+* Spring Integration RSocket: https://docs.spring.io/spring-integration/docs/5.2.0.RELEASE/reference/html/rsocket.html#rsocket
+* Spring Security RSocket: https://docs.spring.io/spring-security/site/docs/5.2.0.RELEASE/reference/htmlsingle/#rsocket
+* Spring Cloud Gateway RSocket: https://github.com/spring-cloud/spring-cloud-gateway/tree/master/spring-cloud-gateway-rsocket
 
 ### RPC
 
 * Standard RSocket RPC Java Implementation https://github.com/rsocket/rsocket-rpc-java
 
-### Reactive Libraries
+### Reactive Resources
 
 * Reactive Stream: http://www.reactive-streams.org/
 * Reactor: https://projectreactor.io/
 * RxJava: https://github.com/ReactiveX/RxJava
+* Reactive Programming articles: https://www.reactiveprogramming.be/
+* What is Reactive Programming: https://medium.com/@kevalpatel2106/what-is-reactive-programming-da37c1611382
+* RSocket videos on Youtube: https://www.youtube.com/channel/UCgq8KGNViXB_D-EUpQBLHzA
 
 ### Netifi Proteus
 
 * Proteus Java Client https://github.com/netifi-proteus/proteus-java 
 * Proteus Integration for Spring Boot https://github.com/netifi-proteus/proteus-spring
 * Blog from Netifi https://medium.com/netifi
+
+### ScaleCube
+
+* microservices: https://github.com/scalecube/scalecube-services
+* RSocket playground: http://scalecube.io/api-sandbox/app/index.html
 
 ### System
 
@@ -44,17 +61,33 @@ A curated list of awesome RSocket protocol, frameworks, libraries and software.
 
 ### Presentations
 
+* Welcome to the Reactive Revolution:RSocket and Spring Cloud Gateway: https://www.infoq.com/presentations/rsocket-spring-cloud-gateway/
 * Reactive Microservices using RSocket on Reactive Summit 2018: https://www.reactivesummit.org/2018/schedule/reactive-microservices-using-rsocket
 * Reactive with RSocket, SpringOne Platform 2018: https://www.youtube.com/watch?v=D2Z5d9dEBxQ&t=16s slides here https://www.infoq.com/presentations/reactive-streams-rsocket
 * Multi-Service Reactive Streams Using Spring, Reactor, and RSocket https://www.youtube.com/watch?v=e-N4BchYXws
 * Distributed Reactive Streams with RSocket, Reactor, and Spring on CodeOne https://www.youtube.com/watch?v=WVnAbv65uCU&t=409s
 * future:net 2018 - RSocket: Reactive Cloud-Native Networking https://www.youtube.com/watch?v=V5bhLd_DPjM
+* Reactive Microservices using RSocket: https://www.youtube.com/watch?v=_rqQtkIeNIQ
+* Spring Tips: RSocket https://spring.io/blog/2019/01/02/spring-tips-rsocket
+* RSocket and Spring Cloud Gateway: https://www.slideshare.net/Pivotal/welcome-to-the-reactive-revolutionrsocket-and-spring-cloud-gateway-spencer-gibb
 
 ### Articles
 
+* Reactive service to service communication with RSocket: https://medium.com/@b3rnoulli/reactive-service-to-service-communication-with-rsocket-introduction-5d64e5b6909
+* Reactive service to service communication with RSocket — Load balancing & Resumability: https://medium.com/@b3rnoulli/reactive-service-to-service-communication-with-rsocket-load-balancing-resumability-194c2abed1c6
+* How-To: Create RSocket-Java Receiver/Connector: http://coinen.space/rsocket/posts/how-to-rsocket-java-receiver-connector/
+* Reactive Microservices Breed Compelling New Reactive Networking Protocol RSocket: https://itcblogs.currentanalysis.com/2019/01/16/reactive-microservices-breed-compelling-new-reactive-networking-protocol-rsocket/
+* Introduction to RSocket: https://www.baeldung.com/rsocket :thumbsup:
+* End to End Reactive Streams with RSockets on Android and Spring Boot：https://medium.com/@lahtela/end-to-end-reactive-streams-with-rsockets-on-android-and-spring-boot-12037624c58d
 * RSocket, a New Application Network Protocol for Reactive Applications, Announced at SpringOne  https://www.infoq.com/news/2018/10/rsocket-facebook
+*Dynamic Flow Control during Backpressure with RxJava and RSockets: https://medium.com/@lahtela/dynamic-flow-control-during-backpressure-with-rxjava-and-rsockets-41e369cda122
 * Give REST a Rest with RSocket https://www.infoq.com/articles/give-rest-a-rest-rsocket
 * Backpressure: https://github.com/ReactiveX/RxJava/wiki/Backpressure
+* Evaluating Critical Performance Needs for Microservices and Cloud-Native Applications: https://medium.com/netifi/evaluating-critical-performance-needs-for-microservices-and-cloud-native-applications-7675c50a8460
+### Tools
+
+* Expose your local Spring Boot App to internet: https://www.microservices.club/
+* Netifi Broker to a Minikube server: https://www.netifi.com/getstarted-kubernetes
 
 ### Books
 
@@ -76,4 +109,7 @@ A curated list of awesome RSocket protocol, frameworks, libraries and software.
 
 ## Support
 
+* Proteus & RSocket Community: https://community.netifi.com/
+* RSocket Linkedin group: https://www.linkedin.com/groups/8715141/
 * Netifi: https://www.netifi.com/
+* ScaleCube: http://scalecube.io
