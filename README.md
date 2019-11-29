@@ -30,6 +30,7 @@ A curated list of awesome RSocket protocol, frameworks, libraries and software.
 * Spring Integration RSocket: https://docs.spring.io/spring-integration/docs/5.2.0.RELEASE/reference/html/rsocket.html#rsocket
 * Spring Security RSocket: https://docs.spring.io/spring-security/site/docs/5.2.0.RELEASE/reference/htmlsingle/#rsocket
 * Spring Cloud Gateway RSocket: https://github.com/spring-cloud/spring-cloud-gateway/tree/master/spring-cloud-gateway-rsocket
+* RSocket Client CLI (RSC): https://github.com/making/rsc
 
 ### RPC
 
