@@ -90,6 +90,7 @@ A curated list of awesome RSocket protocol, frameworks, libraries and software.
 ### RSocket Brokere
 
 * Netifi Broker: https://www.netifi.com/enterprise
+* Alibaba RSocket Broker: https://github.com/alibaba/alibaba-rsocket-broker
 * Spring Cloud Broker: https://github.com/spring-cloud-incubator/spring-cloud-rsocket
 * ScaleCube Services: http://scalecube.io/
 
