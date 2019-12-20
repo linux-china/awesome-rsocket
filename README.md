@@ -86,6 +86,7 @@ A curated list of awesome RSocket protocol, frameworks, libraries and software.
 * Backpressure: https://github.com/ReactiveX/RxJava/wiki/Backpressure
 * Evaluating Critical Performance Needs for Microservices and Cloud-Native Applications: https://medium.com/netifi/evaluating-critical-performance-needs-for-microservices-and-cloud-native-applications-7675c50a8460
 * Differences between gRPC and RSocket: https://medium.com/netifi/differences-between-grpc-and-rsocket-e736c954e60
+* 使用 RSocket 进行反应式数据传输: https://www.ibm.com/developerworks/cn/java/j-using-rsocket-for-reactive-data-transfer/index.html
 
 ### RSocket Brokere
 
