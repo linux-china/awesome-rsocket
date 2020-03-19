@@ -102,9 +102,6 @@ A curated list of awesome RSocket protocol, frameworks, libraries and software.
 ### Books
 
 * Hands-On Reactive Programming in Spring  "RSocket for low-latency, reactive message passing " https://www.packtpub.com/application-development/hands-reactive-programming-spring-5
-
-![RSocket Chapters](https://github.com/linux-china/awesome-rsocket/raw/master/images/rsocket_chapters.png)
-
 * Hands-On Reactive Programming with Reactor https://www.packtpub.com/application-development/hands-reactive-programming-reactor
 
 
