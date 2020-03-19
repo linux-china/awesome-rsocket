@@ -12,7 +12,7 @@ A curated list of awesome RSocket protocol, frameworks, libraries and software.
 * RSocket Home: http://rsocket.io/
 * RSocket Protocol: http://rsocket.io/docs/Protocol
 * Reactive Foundation: https://reactive.foundation/
-
+* RSocket by Example: http://rsocketbyexample.info/
 
 ### RSocket Libraries
 
