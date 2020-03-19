@@ -25,11 +25,11 @@ A curated list of awesome RSocket protocol, frameworks, libraries and software.
 * Command-line client for ReactiveSocket https://github.com/rsocket/rsocket-cli
 * Facebook Thrift with RSocket: https://github.com/facebook/fbthrift/tree/master/thrift/lib/cpp2/transport/rsocket
 * Envoy with RSocket: https://github.com/linux-china/envoy/tree/master/source/extensions/filters/network/rsocket_proxy
-* Spring RSocket:  https://docs.spring.io/spring/docs/5.2.0.RELEASE/spring-framework-reference/web-reactive.html#rsocket
-* Spring Boot RSocket Starter: https://docs.spring.io/spring-boot/docs/2.2.0.RC1/reference/html/spring-boot-features.html#boot-features-rsocket
-* Spring Integration RSocket: https://docs.spring.io/spring-integration/docs/5.2.0.RELEASE/reference/html/rsocket.html#rsocket
-* Spring Security RSocket: https://docs.spring.io/spring-security/site/docs/5.2.0.RELEASE/reference/htmlsingle/#rsocket
-* Spring Cloud Gateway RSocket: https://github.com/spring-cloud/spring-cloud-gateway/tree/master/spring-cloud-gateway-rsocket
+* Spring RSocket:  https://docs.spring.io/spring/docs/5.2.4.RELEASE/spring-framework-reference/web-reactive.html#rsocket
+* Spring Boot RSocket Starter: https://docs.spring.io/spring-boot/docs/2.2.5.RELEASE/reference/html/spring-boot-features.html#boot-features-rsocket
+* Spring Integration RSocket: https://docs.spring.io/spring-integration/docs/5.2.4.RELEASE/reference/html/rsocket.html#rsocket
+* Spring Security RSocket: https://docs.spring.io/spring-security/site/docs/5.2.2.RELEASE/reference/htmlsingle/#rsocket
+* Spring Cloud Gateway RSocket: https://github.com/spring-cloud-incubator/spring-cloud-rsocket
 
 ### RPC
 
