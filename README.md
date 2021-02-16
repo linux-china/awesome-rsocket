@@ -35,6 +35,7 @@ A curated list of awesome RSocket protocol, frameworks, libraries and software.
 ### RPC
 
 * Standard RSocket RPC Java Implementation https://github.com/rsocket/rsocket-rpc-java
+* Easy RPC with RSocket: https://spring.io/blog/2021/01/18/ymnnalft-easy-rpc-with-rsocket
 
 ### Reactive Resources
 
@@ -75,6 +76,7 @@ A curated list of awesome RSocket protocol, frameworks, libraries and software.
 
 ### Articles
 
+* Spring Boot with Kotlin and RSocket: https://spring.io/guides/tutorials/spring-webflux-kotlin-rsocket/
 * Getting Started With RSocket: Spring Boot Server https://spring.io/blog/2020/03/02/getting-started-with-rsocket-spring-boot-server
 * Getting Started With RSocket: Spring Boot Client https://spring.io/blog/2020/03/09/getting-started-with-rsocket-spring-boot-client
 * Getting Started With RSocket: Spring Boot Fire-And-Forget https://spring.io/blog/2020/03/16/getting-started-with-rsocket-spring-boot-fire-and-forget
@@ -100,12 +102,13 @@ A curated list of awesome RSocket protocol, frameworks, libraries and software.
 * Alibaba RSocket Broker: https://github.com/alibaba/alibaba-rsocket-broker
 * Spring Cloud Broker: https://github.com/spring-cloud-incubator/spring-cloud-rsocket
 * ScaleCube Services: http://scalecube.io/
+* RSocket Service Registry: https://github.com/alibaba-rsocket-broker/rsocket-load-balance
 
 ### Books
 
 * Hands-On Reactive Programming in Spring  "RSocket for low-latency, reactive message passing " https://www.packtpub.com/application-development/hands-reactive-programming-spring-5
 * Hands-On Reactive Programming with Reactor https://www.packtpub.com/application-development/hands-reactive-programming-reactor
-
+* Reactive Spring: https://leanpub.com/reactive-spring
 
 ### Twitter guys
 
