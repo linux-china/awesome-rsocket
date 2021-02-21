@@ -73,6 +73,7 @@ A curated list of awesome RSocket protocol, frameworks, libraries and software.
 * Reactive Microservices using RSocket: https://www.youtube.com/watch?v=_rqQtkIeNIQ
 * Spring Tips: RSocket https://spring.io/blog/2019/01/02/spring-tips-rsocket
 * RSocket and Spring Cloud Gateway: https://www.slideshare.net/Pivotal/welcome-to-the-reactive-revolutionrsocket-and-spring-cloud-gateway-spencer-gibb
+* RSocket | Reactive Socket Streams | What, Why and When to use? https://www.youtube.com/watch?v=jf0xhnoezC4
 
 ### Articles
 
