@@ -46,11 +46,6 @@ A curated list of awesome RSocket protocol, frameworks, libraries and software.
 * What is Reactive Programming: https://medium.com/@kevalpatel2106/what-is-reactive-programming-da37c1611382
 * RSocket videos on Youtube: https://www.youtube.com/channel/UCgq8KGNViXB_D-EUpQBLHzA
 
-### Netifi Proteus
-
-* Proteus Java Client https://github.com/netifi-proteus/proteus-java 
-* Proteus Integration for Spring Boot https://github.com/netifi-proteus/proteus-spring
-* Blog from Netifi https://medium.com/netifi
 
 ### ScaleCube
 
@@ -64,6 +59,7 @@ A curated list of awesome RSocket protocol, frameworks, libraries and software.
 
 ### Presentations
 
+* Spring Tips: @Controllers: RSocket https://www.youtube.com/watch?v=d4HAqS_VfkQ
 * Welcome to the Reactive Revolution:RSocket and Spring Cloud Gateway: https://www.infoq.com/presentations/rsocket-spring-cloud-gateway/
 * Reactive Microservices using RSocket on Reactive Summit 2018: https://www.reactivesummit.org/2018/schedule/reactive-microservices-using-rsocket
 * Reactive with RSocket, SpringOne Platform 2018: https://www.youtube.com/watch?v=D2Z5d9dEBxQ&t=16s slides here https://www.infoq.com/presentations/reactive-streams-rsocket
