@@ -38,6 +38,11 @@ A curated list of awesome RSocket protocol, frameworks, libraries and software.
 * Standard RSocket RPC Java Implementation https://github.com/rsocket/rsocket-rpc-java
 * Easy RPC with RSocket: https://spring.io/blog/2021/01/18/ymnnalft-easy-rpc-with-rsocket
 
+### Tools
+
+* JetBrains RSocket plugin: https://plugins.jetbrains.com/plugin/18195-rsocket-requests-in-http-client
+* RSocketMan: web devtool to test rsocket server http://rsocketman.com/
+
 ### Reactive Resources
 
 * Reactive Stream: http://www.reactive-streams.org/
