@@ -79,6 +79,8 @@ A curated list of awesome RSocket protocol, frameworks, libraries and software.
 
 ### Articles
 
+* Istio, eBPF and RSocket Broker: A deep dive into service mesh: https://medium.com/geekculture/istio-ebpf-and-rsocket-broker-a-deep-dive-into-service-mesh-7ec4871d50bb
+* Beyond REST - An Overview about Modern API Technologies: https://speakerdeck.com/larsduelfer/beyond-rest-an-overview-about-modern-api-technologies
 * Spring Boot with Kotlin and RSocket: https://spring.io/guides/tutorials/spring-webflux-kotlin-rsocket/
 * Getting Started With RSocket: Spring Boot Server https://spring.io/blog/2020/03/02/getting-started-with-rsocket-spring-boot-server
 * Getting Started With RSocket: Spring Boot Client https://spring.io/blog/2020/03/09/getting-started-with-rsocket-spring-boot-client
