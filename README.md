@@ -100,6 +100,7 @@ A curated list of awesome RSocket protocol, frameworks, libraries and software.
 * 使用 RSocket 进行反应式数据传输: https://www.ibm.com/developerworks/cn/java/j-using-rsocket-for-reactive-data-transfer/index.html
 * Reviewing Distributed System Architectures: https://viglucci.io/reviewing-distributed-system-architectures
 * RSocket can make service communication more responsive: https://medium.com/nexocode/rsocket-can-make-service-communication-more-responsive-479e9293f923
+* Getting started with RSocket Kotlin: https://lankydan.dev/getting-started-with-rsocket-kotlin
 
 ### RSocket Brokere
 
